@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/soen6441/!svn/ver/494/trunk/DungeonMaster/src/dnd/util
+END
+ModifierSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/soen6441/!svn/ver/494/trunk/DungeonMaster/src/dnd/util/ModifierSet.java
+END
+IMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/util/IMapper.java
+END
+FileSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/soen6441/!svn/ver/358/trunk/DungeonMaster/src/dnd/util/FileSaver.java
+END
+XmlMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/util/XmlMapper.java
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/soen6441/!svn/ver/494/trunk/DungeonMaster/src/dnd/util/Modifier.java
+END

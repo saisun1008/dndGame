@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 41
+bin
+level1.lvl
+player1.char
+world1.world
+
+END

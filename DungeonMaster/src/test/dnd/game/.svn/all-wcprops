@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/soen6441/!svn/ver/483/trunk/DungeonMaster/src/test/dnd/game
+END
+TestWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/soen6441/!svn/ver/483/trunk/DungeonMaster/src/test/dnd/game/TestWorld.java
+END
+TestTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/soen6441/!svn/ver/294/trunk/DungeonMaster/src/test/dnd/game/TestTile.java
+END
+TestNextLevelTrait.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/soen6441/!svn/ver/482/trunk/DungeonMaster/src/test/dnd/game/TestNextLevelTrait.java
+END
+TestLivingEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/soen6441/!svn/ver/453/trunk/DungeonMaster/src/test/dnd/game/TestLivingEntity.java
+END
+TestInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soen6441/!svn/ver/451/trunk/DungeonMaster/src/test/dnd/game/TestInventory.java
+END
+TestDice.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/soen6441/!svn/ver/473/trunk/DungeonMaster/src/test/dnd/game/TestDice.java
+END
+TestPlayerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/soen6441/!svn/ver/480/trunk/DungeonMaster/src/test/dnd/game/TestPlayerBuilder.java
+END
+TestLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/297/trunk/DungeonMaster/src/test/dnd/game/TestLocation.java
+END
+TestPlayerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/soen6441/!svn/ver/361/trunk/DungeonMaster/src/test/dnd/game/TestPlayerFactory.java
+END
+TestBaseAttackBonus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/soen6441/!svn/ver/395/trunk/DungeonMaster/src/test/dnd/game/TestBaseAttackBonus.java
+END
+TestTrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/soen6441/!svn/ver/296/trunk/DungeonMaster/src/test/dnd/game/TestTrace.java
+END
+TestLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/soen6441/!svn/ver/278/trunk/DungeonMaster/src/test/dnd/game/TestLevel.java
+END

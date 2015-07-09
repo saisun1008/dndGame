@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/soen6441/!svn/ver/509/trunk/DungeonMaster/src/dnd/game/entity/living
+END
+Orc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/278/trunk/DungeonMaster/src/dnd/game/entity/living/Orc.java
+END
+FighterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/soen6441/!svn/ver/509/trunk/DungeonMaster/src/dnd/game/entity/living/FighterBuilder.java
+END
+LivingEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soen6441/!svn/ver/503/trunk/DungeonMaster/src/dnd/game/entity/living/LivingEntity.java
+END
+PlayerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soen6441/!svn/ver/507/trunk/DungeonMaster/src/dnd/game/entity/living/PlayerBuilder.java
+END
+NPCBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/soen6441/!svn/ver/491/trunk/DungeonMaster/src/dnd/game/entity/living/NPCBuilder.java
+END
+PlayerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soen6441/!svn/ver/508/trunk/DungeonMaster/src/dnd/game/entity/living/PlayerFactory.java
+END
+Goblin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/soen6441/!svn/ver/278/trunk/DungeonMaster/src/dnd/game/entity/living/Goblin.java
+END
+BullyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soen6441/!svn/ver/356/trunk/DungeonMaster/src/dnd/game/entity/living/BullyBuilder.java
+END
+NimbleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soen6441/!svn/ver/356/trunk/DungeonMaster/src/dnd/game/entity/living/NimbleBuilder.java
+END
+NPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/423/trunk/DungeonMaster/src/dnd/game/entity/living/NPC.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/soen6441/!svn/ver/479/trunk/DungeonMaster/src/dnd/game/entity/living/Player.java
+END
+Troll.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/soen6441/!svn/ver/278/trunk/DungeonMaster/src/dnd/game/entity/living/Troll.java
+END
+TankBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen6441/!svn/ver/356/trunk/DungeonMaster/src/dnd/game/entity/living/TankBuilder.java
+END

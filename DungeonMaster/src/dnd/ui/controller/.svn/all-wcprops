@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/soen6441/!svn/ver/441/trunk/DungeonMaster/src/dnd/ui/controller
+END
+CharacterSelectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/soen6441/!svn/ver/276/trunk/DungeonMaster/src/dnd/ui/controller/CharacterSelectionController.java
+END
+LevelEditorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/soen6441/!svn/ver/409/trunk/DungeonMaster/src/dnd/ui/controller/LevelEditorController.java
+END
+SelectionItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/ui/controller/SelectionItemController.java
+END
+MenuSelectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/ui/controller/MenuSelectionController.java
+END
+WizardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/ui/controller/WizardController.java
+END
+GameSelectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/soen6441/!svn/ver/276/trunk/DungeonMaster/src/dnd/ui/controller/GameSelectionController.java
+END
+LevelSelectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/soen6441/!svn/ver/276/trunk/DungeonMaster/src/dnd/ui/controller/LevelSelectionController.java
+END
+GameViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soen6441/!svn/ver/441/trunk/DungeonMaster/src/dnd/ui/controller/GameViewController.java
+END
+CharacterEditorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/soen6441/!svn/ver/383/trunk/DungeonMaster/src/dnd/ui/controller/CharacterEditorController.java
+END
+AppLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/ui/controller/AppLauncher.java
+END
+ViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/soen6441/!svn/ver/269/trunk/DungeonMaster/src/dnd/ui/controller/ViewController.java
+END

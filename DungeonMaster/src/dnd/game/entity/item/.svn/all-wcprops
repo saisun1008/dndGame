@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/soen6441/!svn/ver/490/trunk/DungeonMaster/src/dnd/game/entity/item
+END
+Ring.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/soen6441/!svn/ver/486/trunk/DungeonMaster/src/dnd/game/entity/item/Ring.java
+END
+HealthPotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/soen6441/!svn/ver/487/trunk/DungeonMaster/src/dnd/game/entity/item/HealthPotion.java
+END
+EquippableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soen6441/!svn/ver/451/trunk/DungeonMaster/src/dnd/game/entity/item/EquippableItem.java
+END
+Helmet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soen6441/!svn/ver/454/trunk/DungeonMaster/src/dnd/game/entity/item/Helmet.java
+END
+Belt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/soen6441/!svn/ver/490/trunk/DungeonMaster/src/dnd/game/entity/item/Belt.java
+END
+Shield.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soen6441/!svn/ver/453/trunk/DungeonMaster/src/dnd/game/entity/item/Shield.java
+END
+BasicItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/soen6441/!svn/ver/420/trunk/DungeonMaster/src/dnd/game/entity/item/BasicItem.java
+END
+Chest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/436/trunk/DungeonMaster/src/dnd/game/entity/item/Chest.java
+END
+Boots.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/490/trunk/DungeonMaster/src/dnd/game/entity/item/Boots.java
+END
+Armor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen6441/!svn/ver/453/trunk/DungeonMaster/src/dnd/game/entity/item/Armor.java
+END
+EquippableItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/soen6441/!svn/ver/488/trunk/DungeonMaster/src/dnd/game/entity/item/EquippableItemFactory.java
+END
+Weapon.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soen6441/!svn/ver/451/trunk/DungeonMaster/src/dnd/game/entity/item/Weapon.java
+END
+ChestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/soen6441/!svn/ver/489/trunk/DungeonMaster/src/dnd/game/entity/item/ChestBuilder.java
+END
+ConsumableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soen6441/!svn/ver/423/trunk/DungeonMaster/src/dnd/game/entity/item/ConsumableItem.java
+END
+Bracers.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/soen6441/!svn/ver/490/trunk/DungeonMaster/src/dnd/game/entity/item/Bracers.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/soen6441/!svn/ver/420/trunk/DungeonMaster/src/dnd/game/entity/item/Item.java
+END
+Potion.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soen6441/!svn/ver/485/trunk/DungeonMaster/src/dnd/game/entity/item/Potion.java
+END

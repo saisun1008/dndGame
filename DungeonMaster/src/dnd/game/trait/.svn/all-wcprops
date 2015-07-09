@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/soen6441/!svn/ver/331/trunk/DungeonMaster/src/dnd/game/trait
+END
+TileTrait.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/soen6441/!svn/ver/277/trunk/DungeonMaster/src/dnd/game/trait/TileTrait.java
+END
+NextLevelTrait.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/soen6441/!svn/ver/331/trunk/DungeonMaster/src/dnd/game/trait/NextLevelTrait.java
+END
+CollidableTrait.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/soen6441/!svn/ver/277/trunk/DungeonMaster/src/dnd/game/trait/CollidableTrait.java
+END

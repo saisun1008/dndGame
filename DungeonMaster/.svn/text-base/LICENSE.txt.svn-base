@@ -1,0 +1,17 @@
+LICENSE INFORMATION
+
+All code and data was created by SOEN6441 Team 6 unless otherwise mentioned.
+
+Credits:
+
+1. Tile images retrieved from http://www.aesthetictech.8m.com/Absurd.htm
+2. GameCanvasContainer.java retrieved from Slick project
+
+Dependencies:
+
+DungeonMaster uses the following libraries:
+
+1. XStream - http://xstream.codehaus.org
+2. LWJGL - http://lwjgl.org
+3. Slick - http://slick.cokeandcode.com
+
